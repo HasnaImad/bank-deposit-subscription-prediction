@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project was developed as part of the Introduction to Artificial Intelligence course at the University of Sharjah.
+This project was developed as part of the **Introduction to Artificial Intelligence** course at the **University of Sharjah**.
 
 The aim of the project is to predict whether a bank customer will subscribe to a term deposit based on demographic, financial, and marketing-related features.
 
@@ -69,26 +69,19 @@ The models were evaluated using Accuracy, Precision, Recall, and F1-Score.
 | Decision Tree | 90.49% | 60.39% | 61.74% | 61.05% |
 | Artificial Neural Network | 93.13% | 73.80% | 66.91% | 70.19% |
 
-The Artificial Neural Network achieved the highest overall accuracy and F1-Score among the three models.
+The **Artificial Neural Network achieved the highest accuracy and F1-Score** among the three models.
 
 ## 👩‍💻 My Contribution
 
-My contribution to this group project included:
+My contribution focused on:
 
 - Introduction and project background
-- Analysis of the problem and objectives
-- Supporting the project documentation and report preparation
-
-## 📚 Academic Context
-
-**Course:** Introduction to Artificial Intelligence  
-**University:** University of Sharjah  
-**Department:** Computer Science  
-**Project Type:** Group Project
+- Analysis of the problem and project objectives
 
 ## 📁 Files
 
 - `bank_deposit_prediction.ipynb` — Jupyter Notebook containing the data preprocessing, model development, predictions, and evaluation.
+- `project code as txt.txt` — Plain-text version of the project code.
 
 ## 🚀 Future Improvements
 
